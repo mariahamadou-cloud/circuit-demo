@@ -1,6 +1,4 @@
 @ -1,2 +1,48 @@
-# circuit-demo
-pcb circuit demo
 
 12V DC to 240V AC Push-Pull Inverter
 
